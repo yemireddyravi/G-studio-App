@@ -1,0 +1,6 @@
+{
+  "name": "Budget Tracker with Real-Time Bank Sync",
+  "description": "A full-stack, real-time budget tracking application that connects with bank accounts to stream transactions and monitor budgets dynamically.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
